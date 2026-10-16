@@ -28,5 +28,6 @@ Thumbs.db
 secrets.json
 credentials.json
 
-sqlite.db
 
+
+db.sqlite3
